@@ -1,5 +1,9 @@
 ### Hi there 👋
 
-Hello, my name is Marcelo Veintimilla. I am a Software Engineering Technician, and I enjoy programming in Java. My aspiration in programming with Java lies in its Platform Independence, Strong Ecosystem, and Security features. These qualities have motivated me to explore Java further and see the extent of what I can achieve with it. While I primarily enjoy programming in Java, I also like to explore other programming languages such as Python, C, and C++. I find great pleasure in the art of programming. 
+Hello, my name is Marcelo Veintimilla. I am a Software Engineering Technician with a passion for programming, especially in Java. My interest in Java is driven by its platform independence, robust ecosystem, and strong security features. These attributes inspire me to delve deeper into Java and explore its full potential.
+
+I embrace the philosophy of being a lifelong learner, always eager to explore new aspects of Java and software engineering. Whether it's diving into Git, Linux, or other exciting technologies, I'm always up for the challenge. While Java is my primary focus, I also enjoy exploring other programming languages such as Python, C, and C++.
+
+I find great satisfaction in the art of programming and the continuous learning it entails, always seeking to broaden my knowledge and skills in the field.
 
 Keep Programming! 
