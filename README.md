@@ -11,5 +11,3 @@ I’m a Software Engineering Technician focused on **Java** and **databases**
 
 ## Activity overview
 ![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarceloV27&theme=github)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarceloV27&theme=github)
