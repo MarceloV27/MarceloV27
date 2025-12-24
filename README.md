@@ -2,10 +2,10 @@
 
 **Software Engineering Technician | Java | Databases (MySQL, Oracle)**
 
-I’m a Software Engineering Technician focused on **Java** and **databases** (MySQL/Oracle) 
+I’m a Software Engineering Technician focused on **Java** and **databases**
 
 ## Focus
-- **Java** (core fundamentals, OOP )
+- **Java** (core fundamentals, OOP, GUI)
 - **Databases**: MySQL / Oracle SQL 
 - **Tools**:  Git
 
