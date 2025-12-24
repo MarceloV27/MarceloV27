@@ -1,8 +1,13 @@
-### Hello World! 👋
+### Marcelo Veintimilla 👋
 
-Hello, my name is Marcelo Veintimilla. I am a Software Engineering Technician with a passion for programming, especially in Java. My interest in Java is driven by its platform independence, robust ecosystem, and strong security features. These attributes inspire me to delve deeper into Java and explore its full potential.
+**Software Engineering Technician | Java | Databases (MySQL, Oracle)**
 
-I embrace the philosophy of being a lifelong learner, always eager to explore new aspects of Java and software engineering. Whether it's diving into Git, Linux, MySQL or other exciting technologies, I'm always up for the challenge. While Java is my primary focus, I also enjoy exploring other programming languages such as Python, C, and C++.
+I’m a Software Engineering Technician focused on **Java** and **databases** (MySQL/Oracle) 
 
-I find great satisfaction in the art of programming and the continuous learning it entails, always seeking to broaden my knowledge and skills in the field.
-Keep Programming! 
+## Focus
+- **Java** (core fundamentals, OOP )
+- **Databases**: MySQL / Oracle SQL 
+- **Tools**:  Git
+
+## Activity overview
+![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarceloV27&theme=github)
